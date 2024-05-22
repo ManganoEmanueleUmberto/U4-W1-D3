@@ -1,9 +1,9 @@
 package Exercise_3;
 
 public class Carrello {
-    Cliente customer;
-    Articolo[] articles;
-    double total;
+    private Cliente customer;
+    private Articolo[] articles;
+    private double total;
 
     public Carrello(Cliente customer) {
         this.customer = customer;

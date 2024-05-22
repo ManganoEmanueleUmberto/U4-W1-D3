@@ -6,6 +6,7 @@ public class Main {
 
         sim1.Call("55545454");
         sim1.Call("9848474415");
+        sim1.Call("6565665");
         sim1.stampaDatiSim();
     }
 }
